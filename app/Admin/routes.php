@@ -14,4 +14,7 @@ Route::group([
 
     $router->get('/', 'HomeController@index');
 
+$router->resource('flink', 'FriendLinkController'); //友情链接
+$router->resource('member', 'MemberController'); //用户
+
 });
