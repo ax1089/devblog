@@ -6,7 +6,7 @@
     'aliases' => 
     array (
     ),
-    'reference' => '4e5da915dae1f81b3c47755229f64207121307fc',
+    'reference' => 'a89ab55fb25dc33833027be541731e9e047b7520',
     'name' => 'laravel/laravel',
   ),
   'versions' => 
@@ -467,6 +467,15 @@
         0 => 'v8.79.0',
       ),
     ),
+    'intervention/image' => 
+    array (
+      'pretty_version' => '2.7.1',
+      'version' => '2.7.1.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '744ebba495319501b873a4e48787759c72e3fb8c',
+    ),
     'kodova/hamcrest-php' => 
     array (
       'replaced' => 
@@ -499,7 +508,7 @@
       'aliases' => 
       array (
       ),
-      'reference' => '4e5da915dae1f81b3c47755229f64207121307fc',
+      'reference' => 'a89ab55fb25dc33833027be541731e9e047b7520',
     ),
     'laravel/sail' => 
     array (
@@ -617,6 +626,15 @@
       array (
       ),
       'reference' => 'c66aefcafb4f6c269510e9ac46b82619a904c576',
+    ),
+    'mews/captcha' => 
+    array (
+      'pretty_version' => '3.2.6',
+      'version' => '3.2.6.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '42c1b320e4cad1f6ec9a395da36d7eda5b67d122',
     ),
     'mockery/mockery' => 
     array (
